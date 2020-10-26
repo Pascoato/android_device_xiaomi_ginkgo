@@ -1875,6 +1875,8 @@ vendor/bin/nqnfcinfo|be17822d9e7e8445db8d100e8e61f8e397a48313
 vendor/lib/libsn100u_fw.so|2bc1887b71b4557b75e26465f6917525bfd43e4a
 
 # Performance - from LA.UM.9.11.r1-04500-NICOBAR.0
+system_ext/lib/libbeluga.so|a77ff56c364d5c854848563e9d36bd6717a86725
+system_ext/lib64/libbeluga.so|c68bf35ff624327ccf28f177cf324480a3969a04
 vendor/bin/hw/vendor.qti.hardware.iop@2.0-service|6343b2865a7f84a1cf51ee9731eb5defac116cb5
 vendor/bin/hw/vendor.qti.hardware.perf@2.2-service|87c9c2354b94347d70db1987a6aa6562a0e08d28
 vendor/bin/msm_irqbalance|b075c2f4092c175950a2c26d19bf2013e2efd6d5
