@@ -1887,6 +1887,8 @@ vendor/lib64/vendor.qti.memory.pasrmanager@1.1.so|9144cc8e1eff77c79e0e87f48aed0c
 vendor/lib64/vendor.qti.power.pasrmanager@1.0.so|98df4e4e8dab418c6476bb9f2d8b26f8e5ab62d9
 
 # Performance - from LA.UM.9.11.r1-04500-NICOBAR.0
+system_ext/lib/libbeluga.so|476b76af5190f5a88b71e217a54513abd0a0580f
+system_ext/lib64/libbeluga.so|323cadc5067d5b4641286d584aa30ac3a24cedbb
 vendor/bin/hw/vendor.qti.hardware.iop@2.0-service|6343b2865a7f84a1cf51ee9731eb5defac116cb5
 vendor/bin/hw/vendor.qti.hardware.perf@2.2-service|87c9c2354b94347d70db1987a6aa6562a0e08d28
 vendor/bin/msm_irqbalance|b075c2f4092c175950a2c26d19bf2013e2efd6d5
