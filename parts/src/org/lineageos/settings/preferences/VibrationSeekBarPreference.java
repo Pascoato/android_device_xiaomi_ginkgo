@@ -6,7 +6,7 @@ import android.os.Vibrator;
 import android.util.AttributeSet;
 import android.widget.SeekBar;
 
-import com.arrow.support.preferences.CustomSecureSeekBarPreference;
+import co.rohie.framework.preference.CustomSecureSeekBarPreference;
 
 public class VibrationSeekBarPreference extends CustomSecureSeekBarPreference {
 
