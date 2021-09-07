@@ -2015,6 +2015,9 @@ vendor/lib/libqmi_csi.so|07083f60fb6f0b967c83b166bf1d2e2ae3beaf20
 vendor/lib/libqmi_encdec.so|db45b38dda5ce833029c1870c948dcabe36ad721
 vendor/lib/libqmiservices.so|ed6785cccaa6e01be1af7e7a8c8d696eeb78e05f
 
+# QTI Telephony - from LA.QSSI.11.0.r1-12400-qssi.0
+system_ext/framework/qti-telephony-common.jar|1c6a36ec17c426cac1770415d2315a3ea82c8daa
+
 # Radio - from LA.UM.9.11.r1-04500-NICOBAR.0
 etc/permissions/privapp-permissions-qti.xml|3eda27003bad39514039190d0d7eb675ba034cb9
 product/etc/permissions/telephony_product_privapp-permissions-qti.xml|42f4553b61731e56d253766554d4479519cea3ff
