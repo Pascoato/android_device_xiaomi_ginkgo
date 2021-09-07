@@ -1940,6 +1940,13 @@ vendor/bin/pm-proxy|6cfaaf498d9360af9d7c9e4675a1dc209454fe24
 vendor/bin/pm-service|4a50fd16c62ba27643eabb89d79c022d667bd8b2
 vendor/lib64/libperipheral_client.so|9bfd41e276e16b8f7c6808f3d87531fc5be4cdd5
 
+# Servicetracker
+vendor/bin/hw/vendor.qti.hardware.servicetracker@1.2-service|e78e2acd5c7815e59f4506ecb79523a276c4df6f
+vendor/etc/init/vendor.qti.hardware.servicetracker@1.2-service.rc|7cf06148da895586c20aab7e6bd01b806d8128b6
+vendor/lib/hw/vendor.qti.hardware.servicetracker@1.2-impl.so|8048736230e1915347787f6d2b7f731be9b1fa16
+vendor/lib64/hw/vendor.qti.hardware.servicetracker@1.2-impl.so|369a371ef3c35270c16becfcef0cc01f37ff4034
+-vendor/etc/vintf/manifest/vendor.qti.hardware.servicetracker@1.2-service.xml|40b6abd9b4be99dc5722eb60d71ee36764bf4ef3
+
 # Postprocessing - from LA.UM.9.11.r1-04500-NICOBAR.0
 product/etc/permissions/com.qti.snapdragon.sdk.display.xml|4c71d110023088c6ea8072227c714416e2792d75
 -product/framework/com.qti.snapdragon.sdk.display.jar|176d711c7d2aa5c95c8ecb42fec8a29158247ea3
