@@ -30,7 +30,7 @@ TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Maintainer
-ROHIE_MAINTAINER := Pascoato & Dmteixei
+ROHIE_MAINTAINER := Pascoato|Dmteixei
 ROHIE_BUILD_TYPE := OFFICIAL
 
 # Inherit some common Rohie stuff
