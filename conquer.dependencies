@@ -1,0 +1,26 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "pascoato/device_xiaomi_ginkgo",
+        "target_path":  "device/xiaomi/ginkgo",
+        "revision":     "twelve"
+    },
+    {
+        "remote":       "github",
+        "repository":   "pascoato/vendor_xiaomi_ginkgo",
+        "target_path":  "vendor/xiaomi/ginkgo",
+        "revision":     "twelve"
+    },
+    {
+        "remote":       "github",
+        "repository":   "pascoato/kernel_xiaomi_ginkgo",
+        "target_path":  "kernel/xiaomi/ginkgo",
+        "revision":     "twelve"
+    },
+    {
+        "remote":       "github",
+        "repository":   "aospa-ginkgo/hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "sapphire"
+    },
+]
