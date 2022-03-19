@@ -15,7 +15,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     GinkgoMiuiCamera \
     GinkgoNoCutoutOverlay \
-    NotchBarKiller \
     WillowFrameworkRes
 
 # AID/fs configs
